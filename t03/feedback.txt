@@ -1,0 +1,13 @@
+phone program does not provide correct output
+Expected:
+	4161234567
+Received:
+	5
+5
+phone program does not provide correct output
+Expected:
+	8 or 6
+Received:
+	6
+6
+2.0 / 3.0
